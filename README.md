@@ -21,4 +21,4 @@
 - ## Fastboot Commands
 - `fastboot devices` – Check fastboot connection  
 - `fastboot flash recovery recovery.img` – Flash recovery
-- - `fastboot oem unlock` – Unlock bootloader (varies by device)
+- `fastboot oem unlock` – Unlock bootloader (varies by device)
